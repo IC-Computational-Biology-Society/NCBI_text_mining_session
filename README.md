@@ -4,7 +4,7 @@ In this session, we will cover some basic features from the Entrez module embedd
 
 **NB:** This session does not cover natural language processing or topics in machine learning. Nevertheless, it should give you the foundation to begin an investigation that culminates in the use of dedicated Python packages, such as NLTK. By the end of the session, you should be able to construct your own dataset of NCBI Pubmed text data on which to (potentially) start training machine learning models.
 
-If you are attended our virtual interactive session on Microsoft Teams, please make sure you can run Anaconda, which can be easily obtained from Imperial College's [AppsAnywhere platform](https://softwarehub.imperial.ac.uk/) or from the [offical Anaconda website](https://www.anaconda.com/) (only recommended if you cannot access AppsAnywhere or completing the tutorial outside of the scheduled session). 
+If you are attending our virtual interactive session on Microsoft Teams, please make sure you can run Anaconda, which can be easily obtained from Imperial College's [AppsAnywhere platform](https://softwarehub.imperial.ac.uk/) or from the [offical Anaconda website](https://www.anaconda.com/) (only recommended if you cannot access AppsAnywhere or completing the tutorial outside of the scheduled session). 
 
 ### Details of use
 
